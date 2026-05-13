@@ -1,32 +1,39 @@
-# Hi, I'm Iliyan 👋
+# Iliyan
 
-## 💻 About me
-I’m currently focused on Linux systems, automation, and system administration.
-I like working with servers, troubleshooting issues, and learning how systems work under the hood.
-
-## 🐧 Tech interests
-- Linux (Garuda / KDE Plasma)
-- System Administration
-- Networking basics
-- Bash scripting
-- Homelab setups
-- Docker (learning)
-
-## 🧠 Currently learning
-- Linux internals
-- Networking & routing
-- Automation scripts
-- Basic DevOps tools
-
-## 🛠️ Tools I use
-- Linux (daily driver)
-- Git & GitHub
-- VS Code
-- Terminal workflows
-
-## 🚀 Goals
-Build a solid foundation for a junior sysadmin / DevOps role and gain real-world infrastructure experience.
+Linux systems • automation • infrastructure • troubleshooting
 
 ---
 
-⭐ Always learning, always breaking things and fixing them again.
+## 🧠 Focus
+
+Working with Linux systems, automation workflows, and practical system administration through real-world troubleshooting and scripting.
+
+---
+
+## 🐧 Interests
+
+- Linux systems (daily usage & internals)
+- System administration
+- Networking fundamentals
+- Bash scripting & automation
+- Homelab environments
+- Docker & containers
+
+---
+
+## ⚙️ Current direction
+
+Building practical experience with Linux systems, scripts, and small infrastructure setups by breaking, fixing, and understanding how things actually work.
+
+---
+
+## 🛠️ Tools
+
+- Linux (daily driver)
+- Git / GitHub
+- VS Code
+- Terminal-based workflows
+
+---
+
+> “Learn systems by interacting with them directly.”
