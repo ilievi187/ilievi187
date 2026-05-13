@@ -4,39 +4,32 @@ Linux systems • homelab • automation • troubleshooting • infrastructure
 
 ## About
 
-Hands-on work with Linux systems through homelab environments, scripting, and system troubleshooting.
+Hands-on Linux work through homelab environments, system troubleshooting, and automation scripting.
 
-Focus is on building and breaking small infrastructure setups to understand how they behave in real conditions.
-
----
-
-## Interests
-
-- Linux systems & internals
-- System administration
-- Networking fundamentals
-- Bash scripting & automation
-- Docker & container environments
-- Homelab setups
+I focus on understanding system behavior through logs, diagnostics, and small infrastructure experiments.
 
 ---
 
-## Tools
+## What I work with
 
-- Linux (daily environment)
-- Git / GitHub
-- VS Code
-- Bash / terminal workflows
-- Docker
-
----
-
-## Work style
-
-I work directly with systems — testing, breaking, analyzing, and automating where it makes sense.
-
-Most of the learning comes from logs, system behavior, and real troubleshooting scenarios.
+- Linux system administration
+- Network diagnostics and troubleshooting
+- Bash scripting and automation tools
+- Docker-based lab environments
+- System monitoring and logging
 
 ---
 
-> “Systems make sense when you observe how they fail.”
+## Projects
+
+- linux-scripts → system diagnostics & monitoring toolkit for Linux environments
+
+---
+
+## Approach
+
+Work directly with systems, observe behavior, identify issues, and automate repetitive tasks where it makes sense.
+
+---
+
+> “Systems are understood by observing how they behave under pressure.”
