@@ -1,39 +1,40 @@
 # Iliyan
 
-Linux systems • automation • infrastructure • troubleshooting
+Linux • systems • automation • troubleshooting
 
 ---
 
-## 🧠 Focus
+## Focus
 
-Working with Linux systems, automation workflows, and practical system administration through real-world troubleshooting and scripting.
+Working with Linux systems and infrastructure through hands-on troubleshooting, scripting, and small-scale automation.
 
 ---
 
-## 🐧 Interests
+## Interests
 
-- Linux systems (daily usage & internals)
+- Linux systems & internals
 - System administration
 - Networking fundamentals
 - Bash scripting & automation
-- Homelab environments
-- Docker & containers
+- Docker & containerized environments
+- Homelab setups
 
 ---
 
-## ⚙️ Current direction
+## Stack
 
-Building practical experience with Linux systems, scripts, and small infrastructure setups by breaking, fixing, and understanding how things actually work.
-
----
-
-## 🛠️ Tools
-
-- Linux (daily driver)
+- Linux (daily use)
 - Git / GitHub
 - VS Code
-- Terminal-based workflows
+- Terminal workflows
+- Bash
 
 ---
 
-> “Learn systems by interacting with them directly.”
+## Direction
+
+Building practical experience by working directly with systems, breaking things, fixing them, and understanding how they behave under load.
+
+---
+
+> “You don’t learn systems by reading about them.”
