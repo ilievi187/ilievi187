@@ -1,12 +1,12 @@
-# Iliyan
-
-Linux • systems • automation • troubleshooting
+Linux systems • automation • troubleshooting • infrastructure
 
 ---
 
-## Focus
+## About
 
-Working with Linux systems and infrastructure through hands-on troubleshooting, scripting, and small-scale automation.
+Working with Linux systems through hands-on troubleshooting, scripting, and small-scale automation.
+
+Focused on understanding how systems behave under real conditions, not just theory.
 
 ---
 
@@ -16,8 +16,8 @@ Working with Linux systems and infrastructure through hands-on troubleshooting, 
 - System administration
 - Networking fundamentals
 - Bash scripting & automation
-- Docker & containerized environments
-- Homelab setups
+- Docker & containers
+- Homelab environments
 
 ---
 
@@ -31,10 +31,10 @@ Working with Linux systems and infrastructure through hands-on troubleshooting, 
 
 ---
 
-## Direction
+## Approach
 
-Building practical experience by working directly with systems, breaking things, fixing them, and understanding how they behave under load.
+Learn by building, breaking, and fixing real systems.
 
 ---
 
-> “You don’t learn systems by reading about them.”
+> “Systems are best understood when they fail.”
