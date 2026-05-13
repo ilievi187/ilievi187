@@ -4,9 +4,9 @@ Linux systems • homelab • automation • troubleshooting • infrastructure 
 
 ## About
 
-Hands-on work with Linux systems through homelab environments, scripting, and system diagnostics.
+Hands-on Linux work through homelab environments, system diagnostics, and automation scripting.
 
-Focus is on observing real system behavior, building small tools, and improving visibility into how systems operate under load.
+I focus on understanding system behavior in real conditions — logs, performance, failures, and recovery paths.
 
 ---
 
@@ -15,7 +15,7 @@ Focus is on observing real system behavior, building small tools, and improving 
 - Linux system administration and troubleshooting
 - Network diagnostics and analysis
 - Bash scripting for automation and monitoring
-- Docker-based lab environments
+- Docker-based homelab environments
 - System logging and diagnostics tooling
 
 ---
@@ -28,8 +28,8 @@ Focus is on observing real system behavior, building small tools, and improving 
 
 ## Approach
 
-Work directly with systems: inspect logs, analyze behavior, identify issues, and automate repetitive operational tasks.
+Work directly with systems: observe behavior, reproduce issues, analyze logs, and automate repetitive operational tasks.
 
 ---
 
-> “Systems are best understood when you interact with them directly.”
+> “You understand systems by how they behave, not how they’re described.”
